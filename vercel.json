@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/VORTEX-ADMIN.html" },
+    { "source": "/(.*)", "destination": "/VORTEX-ADMIN.html" }
+  ]
+}
